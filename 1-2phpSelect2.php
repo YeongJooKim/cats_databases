@@ -38,7 +38,7 @@ if(isset($_GET['id']))
     }
     </style>
         <meta charset = "utf-8">
-        <title>고양이</title>
+        <title>cats_project</title>
     </head>
     <body>
     <body bgcolor = "#ffffe0">
